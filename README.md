@@ -42,7 +42,7 @@ Aby uruchomić ten projekt, musisz mieć zainstalowane następujące elementy:
 4. Oblicz całkowitą cenę zamówienia.
 5. Złóż zamówienie.
 
-##Licencja 
+
 ## Licencja
 
 Ten projekt jest udostępniany na licencji MIT.
